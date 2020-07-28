@@ -4,3 +4,4 @@ date: 2020-07-27T23:14:38-05:00
 draft: true
 ---
 
+https://simpleprogrammer.com/blogging-for-programmers/
